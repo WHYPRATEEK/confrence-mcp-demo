@@ -1,0 +1,5 @@
+[
+  {"id":"INC-100","service":"checkout","severity":"SEV-2","title":"Payment failures increasing","status":"resolved","description":"Previous checkout retry issue. A retry callback could re-submit an authorization after a timeout.","createdAt":"2026-03-12T10:00:00Z","assignedTo":"E-42"},
+  {"id":"INC-101","service":"catalog","severity":"SEV-3","title":"Slow product search","status":"resolved","description":"Search index lag after a catalog import.","createdAt":"2026-05-18T09:00:00Z","assignedTo":"E-17"},
+  {"id":"INC-102","service":"payments","severity":"SEV-2","title":"Gateway latency","status":"resolved","description":"Third-party payment gateway latency caused timeouts.","createdAt":"2026-07-04T11:00:00Z","assignedTo":"E-42"}
+]

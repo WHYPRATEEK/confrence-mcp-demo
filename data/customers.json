@@ -1,0 +1,12 @@
+[
+  {"id":"C001","name":"Sarah Chen","email":"sarah@example.com","plan":"Enterprise","status":"active"},
+  {"id":"C002","name":"Marcus Rivera","email":"marcus@example.com","plan":"Enterprise","status":"active"},
+  {"id":"C003","name":"Priya Shah","email":"priya@example.com","plan":"Pro","status":"active"},
+  {"id":"C004","name":"Jordan Kim","email":"jordan@example.com","plan":"Enterprise","status":"active"},
+  {"id":"C005","name":"Elena Rossi","email":"elena@example.com","plan":"Starter","status":"active"},
+  {"id":"C006","name":"Noah Williams","email":"noah@example.com","plan":"Pro","status":"active"},
+  {"id":"C007","name":"Amina Diallo","email":"amina@example.com","plan":"Enterprise","status":"active"},
+  {"id":"C008","name":"Tom Becker","email":"tom@example.com","plan":"Starter","status":"inactive"},
+  {"id":"C009","name":"Mei Tan","email":"mei@example.com","plan":"Pro","status":"active"},
+  {"id":"C010","name":"Owen Murphy","email":"owen@example.com","plan":"Enterprise","status":"active"}
+]

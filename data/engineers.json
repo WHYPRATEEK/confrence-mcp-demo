@@ -1,0 +1,7 @@
+[
+  {"id":"E-42","name":"Alex Johnson","team":"Payments","services":["checkout","payments"],"onCall":true,"email":"alex.johnson@acmeshop.example"},
+  {"id":"E-17","name":"Samira Patel","team":"Storefront","services":["catalog","search"],"onCall":false,"email":"samira.patel@acmeshop.example"},
+  {"id":"E-31","name":"Theo Martin","team":"Platform","services":["notifications","identity"],"onCall":true,"email":"theo.martin@acmeshop.example"},
+  {"id":"E-63","name":"Riley Brooks","team":"Platform","services":["identity"],"onCall":false,"email":"riley.brooks@acmeshop.example"},
+  {"id":"E-88","name":"Casey Nguyen","team":"Operations","services":["fulfillment"],"onCall":true,"email":"casey.nguyen@acmeshop.example"}
+]

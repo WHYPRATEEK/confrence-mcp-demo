@@ -1,0 +1,12 @@
+[
+  {"id":"DEP-773","service":"catalog","version":"5.4.0","status":"successful","deployedAt":"2026-09-02T09:00:00Z","deployedBy":"E-17"},
+  {"id":"DEP-774","service":"payments","version":"2.9.4","status":"successful","deployedAt":"2026-09-03T11:00:00Z","deployedBy":"E-42"},
+  {"id":"DEP-775","service":"checkout","version":"3.1.9","status":"successful","deployedAt":"2026-09-04T08:00:00Z","deployedBy":"E-42"},
+  {"id":"DEP-776","service":"identity","version":"1.8.2","status":"successful","deployedAt":"2026-09-04T12:00:00Z","deployedBy":"E-63"},
+  {"id":"DEP-777","service":"fulfillment","version":"4.0.1","status":"successful","deployedAt":"2026-09-05T09:00:00Z","deployedBy":"E-88"},
+  {"id":"DEP-778","service":"checkout","version":"3.2.0","status":"successful","deployedAt":"2026-09-05T16:00:00Z","deployedBy":"E-42"},
+  {"id":"DEP-779","service":"notifications","version":"2.3.1","status":"successful","deployedAt":"2026-09-06T10:00:00Z","deployedBy":"E-31"},
+  {"id":"DEP-780","service":"search","version":"6.1.0","status":"successful","deployedAt":"2026-09-06T11:00:00Z","deployedBy":"E-17"},
+  {"id":"DEP-781","service":"payments","version":"2.9.5","status":"successful","deployedAt":"2026-09-06T13:30:00Z","deployedBy":"E-42"},
+  {"id":"DEP-782","service":"checkout","version":"3.2.1","status":"successful","deployedAt":"2026-09-06T14:30:00Z","deployedBy":"E-42","notes":"Introduced retry callback optimization for payment authorization"}
+]
