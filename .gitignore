@@ -1,0 +1,7 @@
+node_modules/
+.pptx-build/
+.codex-finalizer/
+
+# Keep the presenter-ready deck, not intermediate revisions.
+deliverables/*
+!deliverables/acmeshop-mcp-workshop-with-setup-final.pptx
